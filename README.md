@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/AndersonDinizDev/projects-thumbnail/master/magiic-lp.png" alt="exemplo imagem"/>
+<img src="https://raw.githubusercontent.com/AndersonDinizDev/projects-thumbnail/master/aaa.png" alt="exemplo imagem"/>
  </p>
 
 
