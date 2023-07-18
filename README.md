@@ -29,5 +29,6 @@ The following tools were used in this project:
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [ReactJS](https://react.dev/)
 - [Theme-UI](https://theme-ui.com/)
+- [GatsbyJS](https://www.gatsbyjs.com/)
 
 [⬆ Voltar ao topo](#Magiic-Landing-Page)<br>
