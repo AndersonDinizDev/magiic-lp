@@ -1,4 +1,4 @@
-# Magiic Landing Page
+# Magiic-Landing-Page
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -55,4 +55,4 @@ $ yarn i or yarn install
 $ yarn start
 # The server will initialize in the <http://127.0.0.1:3000>
 ```
-[⬆ Voltar ao topo](#MagiicLandingPage)<br>
+[⬆ Voltar ao topo](#Magiic-Landing-Page)<br>
